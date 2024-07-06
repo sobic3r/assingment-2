@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47327090945",
+    "project_id": "fir-flutter-a3205",
+    "storage_bucket": "fir-flutter-a3205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47327090945:android:224ac08747c74fff7fa300",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfB2C0EqXNbWe9SHbL-otcvjGvN7N2Qek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
